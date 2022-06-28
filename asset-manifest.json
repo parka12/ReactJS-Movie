@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parka12/ReactJS-Movie.git/static/css/main.4f716487.css",
-    "main.js": "/parka12/ReactJS-Movie.git/static/js/main.66cd4f5e.js",
-    "static/js/787.3cba2c01.chunk.js": "/parka12/ReactJS-Movie.git/static/js/787.3cba2c01.chunk.js",
-    "index.html": "/parka12/ReactJS-Movie.git/index.html",
-    "main.4f716487.css.map": "/parka12/ReactJS-Movie.git/static/css/main.4f716487.css.map",
-    "main.66cd4f5e.js.map": "/parka12/ReactJS-Movie.git/static/js/main.66cd4f5e.js.map",
-    "787.3cba2c01.chunk.js.map": "/parka12/ReactJS-Movie.git/static/js/787.3cba2c01.chunk.js.map"
+    "main.css": "/parka12/ReactJS-Movie/static/css/main.4f716487.css",
+    "main.js": "/parka12/ReactJS-Movie/static/js/main.dfe90a6d.js",
+    "static/js/787.3cba2c01.chunk.js": "/parka12/ReactJS-Movie/static/js/787.3cba2c01.chunk.js",
+    "index.html": "/parka12/ReactJS-Movie/index.html",
+    "main.4f716487.css.map": "/parka12/ReactJS-Movie/static/css/main.4f716487.css.map",
+    "main.dfe90a6d.js.map": "/parka12/ReactJS-Movie/static/js/main.dfe90a6d.js.map",
+    "787.3cba2c01.chunk.js.map": "/parka12/ReactJS-Movie/static/js/787.3cba2c01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f716487.css",
-    "static/js/main.66cd4f5e.js"
+    "static/js/main.dfe90a6d.js"
   ]
 }
