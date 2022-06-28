@@ -1,0 +1,18 @@
+.navigation{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    position: fixed;
+    margin: 5px;
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    background-color: white;
+    width: 100px;
+    font-weight: 300;
+    margin-bottom: 3px;
+    border-radius: 5px;
+    color: #adaead;
+    box-shadow:  0 13px 27px -5px rgba(50, 50, 93, 0.25), 0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+}
